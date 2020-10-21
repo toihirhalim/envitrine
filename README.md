@@ -1,3 +1,11 @@
+## important !!!
+if images are not showing or adding image not working:  
+1. open the folder: **public** in the project  
+2. delete the folder: **storage**  
+3. run the comand `php artisan storage:link`  
+and you're good to go !
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
